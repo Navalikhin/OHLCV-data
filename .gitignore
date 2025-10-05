@@ -1,0 +1,55 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.so
+*.egg-info/
+.eggs/
+
+# --- Virtual environment ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Logs & temp ---
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Cache ---
+.cache/
+.pytest_cache/
+.mypy_cache/
+coverage/
+
+# --- IDEs & editors ---
+.vscode/
+.idea/
+*.iml
+
+# --- Databases ---
+*.db
+*.sqlite3
+
+# --- Data folders ---
+data/raw/
+data/processed/
+
+# --- OS ---
+.DS_Store
+desktop.ini
+
+# --- Private configs ---
+config_private.py
+config_local.py
