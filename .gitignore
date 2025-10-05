@@ -53,3 +53,4 @@ desktop.ini
 # --- Private configs ---
 config_private.py
 config_local.py
+config.py
