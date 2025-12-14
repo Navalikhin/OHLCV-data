@@ -25,11 +25,11 @@ The project is designed to:
 
 ## Project Structure
 OHLCV-data/
-├── config.py # Database configuration
-├── create_db.py # Database / tables creation
-├── fetch_ohlcv.py # Main data collection script
-├── requirements.txt # Python dependencies
-└── README.md
+config.py # Database configuration
+create_db.py # Database / tables creation
+fetch_ohlcv.py # Main data collection script
+requirements.txt # Python dependencies
+README.md
 
 
 ---
@@ -45,7 +45,7 @@ OHLCV-data/
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/OHLCV-data.git
+git clone https://github.com/navalikhin/OHLCV-data
 cd OHLCV-data
 
 2. Create and activate a virtual environment:
